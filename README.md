@@ -1,3 +1,3 @@
-# Multilabel Classification
+# KNN Multilabel Classification
 # KNN Classification and Regression
-# Missing Values
+# KNN Imputer - Missing Values
